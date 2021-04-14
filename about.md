@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Über mich
+permalink: /impressum/
 ---
 
-Some information about you!
+Hooman from 3rd planet in system.
 
-### More Information
+### Wissenswertes
 
-A place to include any other types of information that you'd like to include about yourself.
+Minimalist.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mail@haspre.de](mailto:mail@haspre.de)
