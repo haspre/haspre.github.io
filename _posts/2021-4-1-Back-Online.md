@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Einmal mit Profies arbeiten!"
+title: Einmal mit Profies arbeiten!
 ---
 Jetzt ist es wieder soweit. Man fühlt sich direkt an die guten, alten Einhörner erinnert.
 
