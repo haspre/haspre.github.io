@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Über mich
-permalink: /impressum/
+permalink: /mich/
 ---
 
 Hooman from 3rd planet in system.
