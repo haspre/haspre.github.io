@@ -6,6 +6,9 @@ permalink: /mich/
 
 Hooman from 3rd planet in system.
 
+Hauptberuf:
+Vater & Ehemann
+
 ### Wissenswertes
 
 Minimalist.
